@@ -2,6 +2,9 @@ This setup creates a **custom "doorway"** into your Salesforce data that allows 
 
 Here is the breakdown of what is happening in the files we just created:
 
+### Create a developer salesforce edition 
+https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/quickstart_dev_org.htm
+
 ### The Big Picture
 You have built a **Universal Data Fetcher**. Instead of building 10 different API endpoints for 10 different reports, you built **one** endpoint that can run *any* query you send it.
 
